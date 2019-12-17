@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noderacer/noderacer.git"
+    "url": "git+https://github.com/andreendo/noderacer.git"
   },
   "author": "noderacer",
-  "license": "ISC",
+  "license": "Apache License",
   "bin": {
     "noderacer": "./lib/cli/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/noderacer/noderacer/issues"
+    "url": "https://github.com/andreendo/noderacer/issues"
   },
-  "homepage": "https://github.com/noderacer/noderacer#readme",
+  "homepage": "https://github.com/andreendo/noderacer#readme",
   "dependencies": {
     "@dagrejs/graphlib": "^2.1.4",
     "bluebird": "^3.5.5",
