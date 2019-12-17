@@ -2,7 +2,7 @@
 
 A dynamic race detector with guided execution for Node.js applications. 
 
-This page contains the source code of NodeRacer and instructions to replicate the experiments, reported in the paper "[NodeRacer: Event Race Detection for Node.js Applications](http://cs.au.dk/~amoeller/papers/noderacer/)" from ICST 2020.
+This page contains the source code of NodeRacer and instructions to replicate the experiments, reported in the paper "[NodeRacer: Event Race Detection for Node.js Applications](http://cs.au.dk/~amoeller/papers/noderacer/)" accepted in IEEE International Conference on Software Testing, Verification and Validation (ICST 2020).
 
 ## Table of Contents
 
