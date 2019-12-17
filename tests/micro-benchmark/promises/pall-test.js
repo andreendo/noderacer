@@ -1,0 +1,1 @@
+require('./pall').ex01()

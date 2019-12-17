@@ -1,0 +1,1 @@
+require('./pti1').ex01();

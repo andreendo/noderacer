@@ -1,0 +1,67 @@
+{
+  "_from": "njstrace",
+  "_id": "njstrace@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-y8lDiAFLR0OGiO0cVkDSKiE0KEPbiExuWP5M5X923xz/Ums+bFYXOxeWhqlRdrusRu2FOqsFavCgrd6IsDFNnA==",
+  "_location": "/njstrace",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "njstrace",
+    "name": "njstrace",
+    "escapedName": "njstrace",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/njstrace/-/njstrace-1.1.0.tgz",
+  "_shasum": "279884ba30a4034567b6af37879bc79c5260836e",
+  "_spec": "njstrace",
+  "author": {
+    "name": "ValYouW",
+    "email": "ValYouW@gmail.com",
+    "url": "http://www.ValYouW.com"
+  },
+  "bugs": {
+    "url": "https://github.com/yuvalw/njsTrace/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "extend": "^3.0.1",
+    "falafel": "^2.1.0",
+    "idgen": "^2.0",
+    "minimatch": "^3.0.4"
+  },
+  "deprecated": false,
+  "description": "A Node.js tracing and instrumentation utility",
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-plugin-named-unassigned-functions": "0.0.2"
+  },
+  "homepage": "https://github.com/yuvalw/njsTrace",
+  "keywords": [
+    "trace",
+    "tracing",
+    "verbose",
+    "instrumentation",
+    "profiling",
+    "performance"
+  ],
+  "license": "MIT",
+  "main": "njsTrace.js",
+  "name": "njstrace",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvalw/njsTrace.git"
+  },
+  "scripts": {
+    "lint": "eslint \"**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}

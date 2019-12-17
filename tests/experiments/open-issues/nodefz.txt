@@ -1,0 +1,7 @@
+How does Node.fz perform with these benchmarks?
+
+get-port - SyntaxError: 
+bluebird - yes
+live-server - SyntaxError: Unexpected token {
+express - SyntaxError: Unexpected token ..
+socket-io - SyntaxError: Unexpected token )

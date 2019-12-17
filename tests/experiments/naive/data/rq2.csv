@@ -1,0 +1,12 @@
+iteration,runs,tool,benchmark,benchmarkID,Fails,FailsWithHbViolations,RunsWithHbViolations,avgNeedlessPostpones,Callbacks
+1,100,NaiveRacer,AKA,#1,55,54,99,2.56,18
+1,100,NaiveRacer,FPS,#2,41,41,93,3.59,44
+1,100,NaiveRacer,GHO,#3,93,60,62,1.88,16
+1,100,NaiveRacer,MKD,#4,50,31,45,0.72,8
+1,100,NaiveRacer,NES,#5,50,10,15,1.36,12
+1,100,NaiveRacer,NLF,#6,71,71,100,4.22,25
+1,100,NaiveRacer,SIO,#7,35,10,53,1.08,22
+1,100,NaiveRacer,DEL,#8,46,25,58,2.22,18
+1,100,NaiveRacer,LST,#9,37,0,0,0.01,7
+1,100,NaiveRacer,NSC,#10,77,61,80,1.79,17
+1,100,NaiveRacer,XLS,#11,44,44,100,4.64,30

@@ -1,0 +1,1 @@
+require('./global01').foo()

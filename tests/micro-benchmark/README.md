@@ -1,0 +1,1 @@
+This micro-benchmark consists of 35 small Node.js programs that simulate trivial uses (and corner cases) of asynchronous operations in Node.js, and include examples from literature. NodeRacer has been extensively tested with this micro-benchmark.

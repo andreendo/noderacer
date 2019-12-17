@@ -1,0 +1,1 @@
+require('./explicit01').foo()

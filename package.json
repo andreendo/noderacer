@@ -1,0 +1,60 @@
+{
+  "name": "noderacer",
+  "version": "1.0.0",
+  "description": "A dynamic race detector with guided execution for Node.js applications",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js",
+    "lint": "eslint lib --ignore-pattern lib/report/public/",
+    "loc-core": "cloc lib/cli/ lib/logger/ lib/hb/ lib/controller/",
+    "remlog": "rm -R log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noderacer/noderacer.git"
+  },
+  "author": "noderacer",
+  "license": "ISC",
+  "bin": {
+    "noderacer": "./lib/cli/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/noderacer/noderacer/issues"
+  },
+  "homepage": "https://github.com/noderacer/noderacer#readme",
+  "dependencies": {
+    "@dagrejs/graphlib": "^2.1.4",
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
+    "cli-table": "^0.3.1",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "extend": "^3.0.1",
+    "falafel": "^2.1.0",
+    "foreground-child": "^1.5.6",
+    "glob": "^7.1.4",
+    "graphviz": "0.0.8",
+    "hasha": "^5.1.0",
+    "idgen": "^2.0",
+    "lodash": "^4.17.15",
+    "lowdb": "^1.0.0",
+    "minimatch": "^3.0.4",
+    "mkdirp": "^0.5.1",
+    "open": "^6.4.0",
+    "random": "^2.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "spawn-wrap": "^1.4.3",
+    "string-sanitizer": "^1.0.0",
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.4.0",
+    "mocha": "^6.2.0",
+    "nodemon": "^1.19.2",
+    "shelljs": "^0.8.3"
+  }
+}

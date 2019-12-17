@@ -1,0 +1,1 @@
+require('./prace').ex01()

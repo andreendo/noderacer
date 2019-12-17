@@ -1,0 +1,10 @@
+How does Node.fz perform with these benchmarks?
+
+bull - SyntaxError: Unexpected token
+markdown-it - SyntaxError: Unexpected token
+mongo-express - SyntaxError: Unexpected token
+nedb - SyntaxError: Unexpected token
+node-archiver - SyntaxError: Unexpected token
+node-http-proxy - SyntaxError: Unexpected token
+node-serialport - SyntaxError: Unexpected token
+objection.js - SyntaxError: Unexpected token

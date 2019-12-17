@@ -1,0 +1,11 @@
+kalm.js,./tests/integration
+localtunnel,--ui qunit --timeout 10000 -- test/index.js
+objection.js,--timeout 15000 --recursive tests --exclude "tests/unit/relations/files/**"
+cliffy,dist/test/
+GPS.js,tests/*.js
+ms.js,tests.js
+passport,--require test/bootstrap/node test/*.test.js test/**/*.test.js
+speakingurl
+stylecow,tests/cases.js
+through2-concurrent,tests.js
+waterline,test --recursive

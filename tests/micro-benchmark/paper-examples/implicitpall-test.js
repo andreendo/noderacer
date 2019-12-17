@@ -1,0 +1,1 @@
+require('./implicitpall').foo()

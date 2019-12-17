@@ -1,0 +1,610 @@
+repo,number,title
+xxczaki/cash-cli,0,repo has no issue
+typicode/json-server,0,repo has no issue
+sindresorhus/gh-home,0,repo has no issue
+shannonmoeller/ygor,0,repo has no issue
+cossacklabs/themis,0,repo has no issue
+phusion/passenger,0,repo has no issue
+faye/faye,0,repo has no issue
+sindresorhus/into-stream,0,repo has no issue
+Hardmath123/nearley,0,repo has no issue
+meteor/meteor,10084,EJSON: can crash 1.5+ server if Meteor.user() is called during instantiation of an EJSON type
+meteor/meteor,8998,Cordova: Failed to install, Cannot find plugin.xml
+hughsk/from2,0,repo has no issue
+samverschueren/listr,0,repo has no issue
+inikulin/parse5,0,repo has no issue
+teambit/bit,0,repo has no issue
+sindresorhus/npm-name,0,repo has no issue
+floatdrop/node-cctz,0,repo has no issue
+audreyt/node-webworker-threads,0,repo has no issue
+juliangruber/binary-extract,0,repo has no issue
+dtjohnson/xlsx-populate,0,repo has no issue
+lpinca/valvelet,0,repo has no issue
+koajs/koa,1351,ESLint warning about a race condition when assigning an awaited result to body
+jahewson/node-byline,0,repo has no issue
+alidavut/locus,0,repo has no issue
+sindresorhus/ipify,0,repo has no issue
+andris9/Nodemailer,0,repo has no issue
+sindresorhus/open,0,repo has no issue
+nodeca/pica,0,repo has no issue
+feross/multistream,0,repo has no issue
+sindresorhus/neat-csv,0,repo has no issue
+cheeriojs/cheerio,0,repo has no issue
+nodeca/navit,0,repo has no issue
+i18next/i18next,0,repo has no issue
+mapbox/node-pre-gyp,373,mock s3 tests
+sindresorhus/gh-got,0,repo has no issue
+typeorm/typeorm,4168,Question about TransactionalEntityManager
+typeorm/typeorm,3094,Preventing Race Conditions when locking rows
+infusion/node-dhcp,0,repo has no issue
+sindresorhus/superheroes,0,repo has no issue
+fivdi/i2c-bus,0,repo has no issue
+roccomuso/netcat,0,repo has no issue
+klauscfhq/signale,0,repo has no issue
+kevva/download,0,repo has no issue
+docpad/docpad,0,repo has no issue
+nodejs/readable-stream,0,repo has no issue
+node-red/node-red,0,repo has no issue
+fivdi/pigpio,0,repo has no issue
+sindresorhus/string-length,0,repo has no issue
+jesusprubio/strong-node,0,repo has no issue
+oliver-moran/jimp,0,repo has no issue
+mafintosh/why-is-node-running,0,repo has no issue
+josdejong/mathjs,0,repo has no issue
+eslint/eslint,11911,require-atomic-updates isn't consistent between locals and params
+eslint/eslint,11900,require-atomic-updates complains about unrelated variable references
+eslint/eslint,11899,require-atomic-updates false positive
+eslint/eslint,9649,new rule: Prefer using async/await instead of Promise.prototype.then/catch/finally
+Codeception/CodeceptJS,0,repo has no issue
+guigrpa/storyboard,0,repo has no issue
+sindresorhus/dark-mode,0,repo has no issue
+sindresorhus/is,0,repo has no issue
+power-assert-js/power-assert,0,repo has no issue
+sindresorhus/empty-trash,0,repo has no issue
+visionmedia/superagent,0,repo has no issue
+nodesource/nscm,0,repo has no issue
+nspragg/filehound,0,repo has no issue
+pencilblue/pencilblue,0,repo has no issue
+mlaanderson/database-js,0,repo has no issue
+sindresorhus/unique-random,0,repo has no issue
+sindresorhus/ora,0,repo has no issue
+gulpjs/gulp,0,repo has no issue
+bevry/istextorbinary,0,repo has no issue
+thinkjs/thinkjs,0,repo has no issue
+sindresorhus/boxen,0,repo has no issue
+Hashnode/mern-cli,0,repo has no issue
+mscdex/ssh2,0,repo has no issue
+davglass/license-checker,0,repo has no issue
+SkyHacks/nerds,0,repo has no issue
+shelljs/shelljs,0,repo has no issue
+eleith/emailjs,0,repo has no issue
+sindresorhus/term-size,0,repo has no issue
+Tjatse/node-readability,0,repo has no issue
+sindresorhus/sparkly,0,repo has no issue
+node-inspector/node-inspector,656,Support for Timeline tab
+sindresorhus/math-clamp,0,repo has no issue
+badges/shields,0,repo has no issue
+bevry/getmac,0,repo has no issue
+QingWei-Li/docsify,0,repo has no issue
+gkozlenko/node-video-lib,0,repo has no issue
+vitaly-t/pg-promise,0,repo has no issue
+typicode/lowdb,339,Problem:  Is lowdb `write()` atomic writing?
+logicalparadox/matcha,0,repo has no issue
+sindresorhus/terminal-image,0,repo has no issue
+sindresorhus/pretty-bytes,0,repo has no issue
+fivdi/onoff,0,repo has no issue
+mafintosh/webcat,0,repo has no issue
+gajus/global-agent,0,repo has no issue
+sindresorhus/os-locale,0,repo has no issue
+GoogleChromeLabs/ndb,0,repo has no issue
+nodenv/nodenv,0,repo has no issue
+noffle/art-of-readme,0,repo has no issue
+mathiasbynens/he,0,repo has no issue
+wooorm/franc,0,repo has no issue
+sindresorhus/ow,0,repo has no issue
+wooorm/remark,0,repo has no issue
+mafintosh/csv-parser,0,repo has no issue
+shannonmoeller/cli-columns,0,repo has no issue
+strongloop/loopback,0,repo has no issue
+kevva/wifi-password-cli,0,repo has no issue
+sindresorhus/detect-indent,0,repo has no issue
+sindresorhus/onetime,0,repo has no issue
+valyouw/njstrace,0,repo has no issue
+isaacs/node-tap,0,repo has no issue
+apostrophecms/apostrophe,1765,Switch sessions to resave: false to prevent race conditions, find suitable store
+caolan/highland,0,repo has no issue
+bleenco/abstruse,0,repo has no issue
+lukechilds/cacheable-request,0,repo has no issue
+lovell/sharp,0,repo has no issue
+ternjs/acorn,0,repo has no issue
+substack/stream-handbook,0,repo has no issue
+tipeio/tipe,0,repo has no issue
+maxogden/binary-split,0,repo has no issue
+sindresorhus/np,0,repo has no issue
+nodeca/embedza,0,repo has no issue
+mafintosh/duplexify,3,race condition
+petruisfan/node-supervisor,0,repo has no issue
+Raathigesh/Atmo,0,repo has no issue
+datproject/dat-node,0,repo has no issue
+feross/standard,0,repo has no issue
+sindresorhus/awesome-npm,0,repo has no issue
+deepstreamIO/deepstream.io-client-js,444,potential race condition with set for records
+deepstreamIO/deepstream.io-client-js,407,missing check for "callbacks" not undefined
+deepstreamIO/deepstream.io-client-js,204,discard/delete data race when quickly re-subscribing
+hapijs/wreck,0,repo has no issue
+HabitRPG/habitica,0,repo has no issue
+coreybutler/nvm-windows,0,repo has no issue
+watson/stackman,0,repo has no issue
+weyoss/redis-smq,0,repo has no issue
+SGrondin/bottleneck,0,repo has no issue
+avajs/ava,0,repo has no issue
+linuxenko/lessmd,0,repo has no issue
+tmpvar/jsdom,0,repo has no issue
+nettofarah/property-validator,0,repo has no issue
+bee-queue/bee-queue,0,repo has no issue
+sindresorhus/wallpaper,0,repo has no issue
+Javascipt/Jsome,0,repo has no issue
+wooorm/alex,0,repo has no issue
+kefirjs/kefir,0,repo has no issue
+yeoman/update-notifier,0,repo has no issue
+jcoppieters/cody,0,repo has no issue
+sindresorhus/parse-json,0,repo has no issue
+bbc/sqs-consumer,0,repo has no issue
+motdotla/dotenv,0,repo has no issue
+Marak/Faker.js,0,repo has no issue
+smrchy/rsmq,0,repo has no issue
+sindresorhus/first-run,0,repo has no issue
+Turfjs/turf,0,repo has no issue
+mafintosh/peerflix,0,repo has no issue
+mzabriskie/axios,0,repo has no issue
+chalk/chalk,0,repo has no issue
+NodeOS/NodeOS,107,reuse process
+sindresorhus/is-online,0,repo has no issue
+TelescopeJS/Telescope,0,repo has no issue
+fuse-box/fuse-box,0,repo has no issue
+NodeBB/NodeBB,0,repo has no issue
+danielstjules/pjs,0,repo has no issue
+kevva/lnfs,0,repo has no issue
+Atinux/schema-inspector,0,repo has no issue
+sindresorhus/write-json-file,0,repo has no issue
+sindresorhus/each-async,0,repo has no issue
+mongodb/node-mongodb-native,0,repo has no issue
+bbc/flashheart,0,repo has no issue
+thejoshwolfe/yazl,0,repo has no issue
+rollup/rollup,2887,Handle "pure" functions that trigger iterators
+sindresorhus/meow,0,repo has no issue
+epoberezkin/ajv,0,repo has no issue
+jprichardson/node-fs-extra,694,Add heuristics to stats.ino comparison when bigint is not available
+sindresorhus/dot-prop,0,repo has no issue
+sindresorhus/first-chunk-stream,0,repo has no issue
+ehmicky/portable-node-guide,0,repo has no issue
+kevva/decompress,0,repo has no issue
+aerospike/aerospike-client-nodejs,0,repo has no issue
+sindresorhus/import-lazy,0,repo has no issue
+mafintosh/pumpify,0,repo has no issue
+mafintosh/tar-stream,0,repo has no issue
+wycats/handlebars.js,0,repo has no issue
+rschmukler/agenda,417,Race condition registering listener on "ready" event
+rschmukler/agenda,341,Jobs stuck in race condition, where few wins and few never
+marionebl/svg-term-cli,0,repo has no issue
+mjswensen/themer,0,repo has no issue
+facebook/immutable-js,0,repo has no issue
+sindresorhus/random-int,0,repo has no issue
+zenparsing/zen-observable,0,repo has no issue
+marko-js/marko,0,repo has no issue
+simov/grant,0,repo has no issue
+Gottwik/enduro,0,repo has no issue
+mqttjs/MQTT.js,0,repo has no issue
+sindresorhus/indent-string,0,repo has no issue
+ReactiveX/RxJS,4847,windowTime race condition
+ReactiveX/RxJS,4773,docs(race):  added description for race
+ReactiveX/RxJS,4656,[docs]: Creation function `race` is missing description
+ReactiveX/RxJS,4655,[docs]: Operator `race` is missing description and example
+ReactiveX/RxJS,3592,lift called with incorrect context
+automation-stack/ctrace,0,repo has no issue
+klauscfhq/taskbook,0,repo has no issue
+PhilWaldmann/openrecord,0,repo has no issue
+gadael/gadael,0,repo has no issue
+scijs/ndarray,0,repo has no issue
+sindresorhus/yn,0,repo has no issue
+nodeca/multimath,0,repo has no issue
+hexojs/hexo,0,repo has no issue
+sfast/zeronode,0,repo has no issue
+sindresorhus/escape-string-regexp,0,repo has no issue
+keystonejs/keystone,0,repo has no issue
+davidmarkclements/0x,136,0x may exit without generating flamegraph on SIGINT
+pigulla/json-strictify,0,repo has no issue
+h2non/toxy,0,repo has no issue
+NaturalIntelligence/fast-xml-parser,0,repo has no issue
+devongovett/pdfkit,762,Race condition in document generation.
+sindresorhus/normalize-url,0,repo has no issue
+postcss/postcss,0,repo has no issue
+diamondio/better-queue,0,repo has no issue
+elpheria/rpc-websockets,0,repo has no issue
+mcollina/aedes,0,repo has no issue
+cytoscape/cytoscape.js,0,repo has no issue
+sindresorhus/load-json-file,0,repo has no issue
+TryGhost/Ghost,0,repo has no issue
+niftylettuce/email-templates,0,repo has no issue
+sindresorhus/strip-bom,0,repo has no issue
+esdoc/esdoc,518,ESDoc runs through all files in specified source directory not excluding `excludes` pattern
+sindresorhus/terminal-link,0,repo has no issue
+sindresorhus/figures,0,repo has no issue
+rwaldron/johnny-five,0,repo has no issue
+sindresorhus/del,0,repo has no issue
+nodeca/probe-image-size,0,repo has no issue
+NaturalNode/natural,0,repo has no issue
+bitcoinjs/bitcoinjs-lib,0,repo has no issue
+alexfernandez/loadtest,0,repo has no issue
+moment/luxon,0,repo has no issue
+Automattic/mongoose,0,repo has no issue
+deepsweet/start,0,repo has no issue
+isaacs/nave,0,repo has no issue
+mantoni/mochify.js,0,repo has no issue
+casbin/node-casbin,0,repo has no issue
+atom/electron,17187,getGPUInfo('complete') often never settles the returned promise
+atom/electron,17029,Random crash on startup when migrating from electron 1.8+ to electron 2+
+atom/electron,13418,Possible race condition in window closing on windows causing crash
+atom/electron,12862,Destroying Tray while interacting with one of its events causes sporadic crashes
+sindresorhus/humanize-url,0,repo has no issue
+nodeca/js-yaml,0,repo has no issue
+taskrabbit/node-resque,0,repo has no issue
+llambda/agilegps,0,repo has no issue
+juliangruber/browser-run,0,repo has no issue
+timoxley/columnify,0,repo has no issue
+maxogden/art-of-node,0,repo has no issue
+nodeca/promise-memoize,0,repo has no issue
+mafintosh/peek-stream,0,repo has no issue
+webdriverio/webdriverio,0,repo has no issue
+coderaiser/cloudcmd,0,repo has no issue
+sindresorhus/p-map,0,repo has no issue
+Level/levelup,0,repo has no issue
+medialize/URI.js,0,repo has no issue
+lukechilds/keyv,0,repo has no issue
+robconery/massive-js,0,repo has no issue
+countly/countly-server,0,repo has no issue
+sindresorhus/log-update,0,repo has no issue
+fastify/fastify,0,repo has no issue
+felixge/node-dateformat,0,repo has no issue
+stephenplusplus/stream-faqs,0,repo has no issue
+nodejs/llnode,0,repo has no issue
+documentationjs/documentation,0,repo has no issue
+sindresorhus/ansi-escapes,0,repo has no issue
+iamkun/dayjs,0,repo has no issue
+BrainJS/brain.js,0,repo has no issue
+sindresorhus/pretty-ms,0,repo has no issue
+sindresorhus/hook-std,0,repo has no issue
+hapijs/hapi,0,repo has no issue
+samverschueren/tz-format,0,repo has no issue
+sindresorhus/tempy,0,repo has no issue
+baconjs/bacon.js,0,repo has no issue
+fivdi/spi-device,0,repo has no issue
+sahat/hackathon-starter,0,repo has no issue
+Urigo/awesome-meteor,0,repo has no issue
+creationix/js-git,0,repo has no issue
+codekirei/node-multispinner,0,repo has no issue
+sindresorhus/pageres,0,repo has no issue
+assemble/assemble/,0,repo has no issue
+sindresorhus/string-width,0,repo has no issue
+sindresorhus/splice-string,0,repo has no issue
+SAP/chevrotain,0,repo has no issue
+actionhero/actionhero,0,repo has no issue
+bitpay/bitcore,0,repo has no issue
+sindresorhus/cows,0,repo has no issue
+SBoudrias/Inquirer.js,0,repo has no issue
+octalmage/robotjs,381,Is it possible to turn the raw pixel bitmap into a PNG buffer IN MEMORY without saving it?
+samverschueren/mobisplash-cli,0,repo has no issue
+patrickjuchli/basic-ftp,0,repo has no issue
+sindresorhus/move-file,0,repo has no issue
+remy/nodemon,0,repo has no issue
+sindresorhus/strip-json-comments,0,repo has no issue
+szwacz/fs-jetpack,0,repo has no issue
+bcoe/nyc,0,repo has no issue
+bokub/gradient-string,0,repo has no issue
+pkosiec/mongo-seeding,0,repo has no issue
+sindresorhus/globby,0,repo has no issue
+pegjs/pegjs,0,repo has no issue
+sindresorhus/resolve-from,0,repo has no issue
+maxogden/torrent,0,repo has no issue
+jsdoc3/jsdoc,0,repo has no issue
+mochajs/mocha,3938,Uncaught exceptions are silenced if happen in timeframe of skipped test
+mochajs/mocha,3832,race condition on deprecation warnings in browser
+compactr/compactr.js,0,repo has no issue
+melaniecebula/cat-ascii-faces,0,repo has no issue
+ashtuchkin/iconv-lite,0,repo has no issue
+axa-group/nlp.js,0,repo has no issue
+jakubpawlowicz/clean-css,0,repo has no issue
+luin/ioredis,0,repo has no issue
+sindresorhus/trash,0,repo has no issue
+sindresorhus/got,0,repo has no issue
+nodeca/url-unshort,0,repo has no issue
+siddharthkp/cost-of-modules,0,repo has no issue
+mischah/itunes-remote,0,repo has no issue
+coreybutler/node-windows,0,repo has no issue
+jaredhanson/passport,704,#703 - Fixes race condition when using express-session with custom store
+jaredhanson/passport,703,Race condition for express-session with external store
+jaredhanson/passport,504,Fixed race condition that occurs when using connect-pg-simple
+jaredhanson/passport,477,Ensure session store complete before redirect
+sindresorhus/npm-home,0,repo has no issue
+simonepri/upash,0,repo has no issue
+CloudRail/cloudrail-si-node-sdk,0,repo has no issue
+isaacs/rimraf,0,repo has no issue
+nonolith/node-usb,0,repo has no issue
+sindresorhus/make-dir,0,repo has no issue
+OptimalBits/bull,1233,Question about moveToCompleted, maybe a race condition/bug?
+sindresorhus/awesome-electron,0,repo has no issue
+nasa/openmct,0,repo has no issue
+samverschueren/mobicon-cli,0,repo has no issue
+almost/through2-concurrent,0,repo has no issue
+sindresorhus/emoj,0,repo has no issue
+animir/node-rate-limiter-flexible,0,repo has no issue
+mishoo/UglifyJS2,0,repo has no issue
+zaach/jison,0,repo has no issue
+andywer/leakage,0,repo has no issue
+phenomic/phenomic,0,repo has no issue
+visionmedia/debug,0,repo has no issue
+Leonidas-from-XIV/node-xml2js,0,repo has no issue
+brunch/brunch,1695,Cannot Import Nested Modules
+theintern/intern,0,repo has no issue
+date-fns/date-fns,0,repo has no issue
+pgte/nock,1600,Weekly Digest (23 June, 2019 - 30 June, 2019)
+bestiejs/benchmark.js,0,repo has no issue
+stalniy/casl,0,repo has no issue
+mozilla/nunjucks,0,repo has no issue
+parcel-bundler/parcel,2684,Hot reloading CSS modules results in multiple insertions/delayed update.
+sindresorhus/pify,0,repo has no issue
+reptar/reptar,0,repo has no issue
+mafintosh/peerwiki,0,repo has no issue
+hemerajs/hemera,0,repo has no issue
+sindresorhus/is-up,0,repo has no issue
+brianc/node-postgres,1830,EBADF crash (uv__io_stop: Assertion `loop->watchers[w->fd] == w' failed)
+couchbase/couchnode,0,repo has no issue
+dominikwilkowski/cfonts,0,repo has no issue
+socketio/socket.io,3431,Using await within emit causes payload to be sent to all connected clients
+socketio/socket.io,3358,Reconnect never happens (race conditions)
+socketio/socket.io,2975,Socket disconnect race condition leads to orphaned HTTP connections and stop() callback not running
+mout/mout,0,repo has no issue
+lapwinglabs/x-ray,0,repo has no issue
+DevExpress/testcafe,2425,Delaying mocked responses
+sindresorhus/get-stream,0,repo has no issue
+sindresorhus/pkg-dir,0,repo has no issue
+sequelize/sequelize,9310,add(Model) in BelongsToMany potentially vulnerable to race conditions
+sequelize/sequelize,9102,Return upsert record on MySQL with FOR UPDATE lock
+sequelize/sequelize,8315,Using a leak library <bluebird>, got any plan to replace it?
+sinonjs/sinon,0,repo has no issue
+thejoshwolfe/yauzl,0,repo has no issue
+peterbraden/node-opencv,0,repo has no issue
+request/request,3106,Add missing intermediate SSL certificates fetching support
+request/request,2807,npm install fails intermittently due to race condition in Redirect.prototype.onResponse
+substack/stream-combiner2,0,repo has no issue
+sindresorhus/matcher,0,repo has no issue
+rvagg/through2,0,repo has no issue
+ramda/ramda,0,repo has no issue
+facebook/jest,4444,cache write race condition across processes
+facebook/jest,3103,Analyze Jest's usage of the file system and optimize it.
+facebook/jest,1874,Flaky failure mode when running tests
+alanshaw/david-www,0,repo has no issue
+f/omelette,0,repo has no issue
+sindresorhus/pad-stream,0,repo has no issue
+nodejitsu/node-http-proxy,0,repo has no issue
+kessler/node-bcat,0,repo has no issue
+egoist/testen,0,repo has no issue
+feathersjs/feathers,853,app.setup() should be async
+maxogden/cool-ascii-faces,0,repo has no issue
+sindresorhus/superb,0,repo has no issue
+sindresorhus/execa,0,repo has no issue
+cherow/cherow,0,repo has no issue
+xojs/xo,0,repo has no issue
+sindresorhus/public-ip,0,repo has no issue
+nodegit/nodegit,0,repo has no issue
+dtao/lazy.js,0,repo has no issue
+wooorm/retext,0,repo has no issue
+apache/couchdb-nano,9,DB.insert: Can not insert extra headers like If-Match:rev to handle 'Document update conflict'
+markdown-it/linkify-it,0,repo has no issue
+strapi/strapi,0,repo has no issue
+seegno/google-libphonenumber,0,repo has no issue
+jstrace/chart,0,repo has no issue
+zeit/pkg,0,repo has no issue
+vdemedes/trevor,0,repo has no issue
+nestjs/nest,0,repo has no issue
+markdown-it/markdown-it,0,repo has no issue
+madbence/node-drawille,0,repo has no issue
+senecajs/seneca,0,repo has no issue
+ipfs/js-ipfs,0,repo has no issue
+tommybananas/finale,0,repo has no issue
+pinojs/pino,0,repo has no issue
+sindresorhus/module-requests,0,repo has no issue
+witheve/Eve,0,repo has no issue
+dcodeIO/protobuf.js,0,repo has no issue
+reactioncommerce/reaction,0,repo has no issue
+sindresorhus/speed-test,0,repo has no issue
+samverschueren/dev-time-cli,0,repo has no issue
+ubolonton/js-csp,0,repo has no issue
+vadimdemedes/ink,0,repo has no issue
+tapio/live-server,262,On 404, send a meta refresh header
+soldair/node-qrcode,0,repo has no issue
+sindresorhus/import-fresh,0,repo has no issue
+sindresorhus/cli-cursor,0,repo has no issue
+alanshaw/david,0,repo has no issue
+babel/babel/tree/master/packages/babel-parser,0,repo has no issue
+airbnb/hypernova,0,repo has no issue
+bcoe/awesome-cross-platform-nodejs,0,repo has no issue
+broccolijs/broccoli,0,repo has no issue
+coreybutler/node-linux,0,repo has no issue
+caolan/async,0,repo has no issue
+sindresorhus/leven,0,repo has no issue
+19majkel94/type-graphql,0,repo has no issue
+timeoff-management/application,0,repo has no issue
+mafintosh/peercast,0,repo has no issue
+yodaos-project/yodaos,0,repo has no issue
+winstonjs/winston,1176,Fix race condition with compressing file in tail mode
+azat-co/you-dont-know-node,0,repo has no issue
+brandonweiss/discharge,0,repo has no issue
+azat-co/cheatsheets/blob/master/express4,0,repo has no issue
+sindresorhus/strip-css-comments,0,repo has no issue
+restify/node-restify,1788,cpuUsageThrottle plugin `close()` does not clean up properly
+archiverjs/node-archiver,0,repo has no issue
+pugjs/pug,0,repo has no issue
+rauchg/ms.js,0,repo has no issue
+sindresorhus/clipboard-cli,0,repo has no issue
+tj/n,0,repo has no issue
+sindresorhus/file-type,0,repo has no issue
+nogizhopaboroda/iponmap,0,repo has no issue
+sheetjs/js-xlsx,0,repo has no issue
+sindresorhus/crypto-hash,0,repo has no issue
+snd/url-pattern,0,repo has no issue
+kevva/brightness-cli,0,repo has no issue
+zeit/micro,0,repo has no issue
+nodeca/babelfish,0,repo has no issue
+joyent/node-vstream,0,repo has no issue
+bitinn/node-fetch,0,repo has no issue
+rtfpessoa/diff2html-cli,0,repo has no issue
+sindresorhus/round-to,0,repo has no issue
+nightwatchjs/nightwatch,0,repo has no issue
+sindresorhus/generator-nm,0,repo has no issue
+sindresorhus/get-stdin,0,repo has no issue
+Microsoft/vscode,71698,TreeDataProvider shows error "Element with id is already registered"
+Microsoft/vscode,70303,Race condition with "runOn": "folderOpen" if extension not already activated
+Microsoft/vscode,67692,Debugger commands sent to terminal get swallowed by previous terminal command
+Microsoft/vscode,61344,Command-P searching delays
+Microsoft/vscode,42913,Add an API that fires after all documents are saved as part of a Save All action
+npm/node-semver,0,repo has no issue
+origamitower/folktale,178,Properly define (and maybe formalise) Tasks
+origamitower/folktale,52,Expose non monadic version of Task
+AriaMinaei/pretty-error,0,repo has no issue
+drew-y/cliffy,0,repo has no issue
+kesla/node-snappy,0,repo has no issue
+nodeca/pako,0,repo has no issue
+substack/tape,0,repo has no issue
+louischatriot/nedb,461,pointing two instances to the same file, should it work?
+mysqljs/mysql,0,repo has no issue
+sindresorhus/emittery,0,repo has no issue
+yargs/yargs,0,repo has no issue
+Vincit/objection.js,0,repo has no issue
+IMA-WorldHealth/bhima-2.X,0,repo has no issue
+simonepri/env-dot-prop,0,repo has no issue
+sindresorhus/loud-rejection,0,repo has no issue
+oclif/oclif,0,repo has no issue
+thompsonemerson/moeda,0,repo has no issue
+sindresorhus/delay,0,repo has no issue
+ekalinin/nodeenv,0,repo has no issue
+cli-table/cli-table3,0,repo has no issue
+Microsoft/nodejs-guidelines,0,repo has no issue
+i0natan/nodebestpractices,0,repo has no issue
+typicode/hotel,0,repo has no issue
+micromata/http-fake-backend,0,repo has no issue
+fibo/algebra,0,repo has no issue
+hapijs/joi,0,repo has no issue
+sindresorhus/cat-names,0,repo has no issue
+balderdashy/waterline,0,repo has no issue
+sindresorhus/kill-tabs,0,repo has no issue
+atom/atom,18451,Overlapping text in editor
+atom/atom,17769,Rapid zooming (scaling font size) skips backwards occasionally
+atom/atom,13141,Race between type-specific settings and third-party packages that update settings dynamically
+markelog/adit,0,repo has no issue
+khaosdoctor/gotql,0,repo has no issue
+isaacs/node-graceful-fs,0,repo has no issue
+MrRio/vtop,0,repo has no issue
+npm/fs-write-stream-atomic,0,repo has no issue
+sindresorhus/sudo-block,0,repo has no issue
+babel/babili,0,repo has no issue
+sindresorhus/image-type,0,repo has no issue
+DimitriMikadze/Mean-Blog,0,repo has no issue
+isomorphic-git/isomorphic-git,0,repo has no issue
+sindresorhus/tmpin,0,repo has no issue
+mafintosh/is-my-json-valid,0,repo has no issue
+jashkenas/docco,0,repo has no issue
+sindresorhus/dog-names,0,repo has no issue
+siddharthkp/auto-install,0,repo has no issue
+sindresorhus/promise-fun,0,repo has no issue
+aheckmann/gm,0,repo has no issue
+gilbitron/Raneto,0,repo has no issue
+webpack/webpack,0,repo has no issue
+sindresorhus/find-up,0,repo has no issue
+sindresorhus/supervillains,0,repo has no issue
+tgriesser/knex,2324,stream.end() does not return connection to pool - race condition
+tgriesser/knex,891,SQLite3 select / insert behaving inconsistently
+uWebSockets/uWebSockets,0,repo has no issue
+sindresorhus/log-symbols,0,repo has no issue
+sindresorhus/camelcase,0,repo has no issue
+cgiffard/node-simplecrawler,0,repo has no issue
+sindresorhus/get-port,23,Is it possible to fix race condition?
+indexzero/http-server,152,support custom mime-type(s) via .types file
+s-a/iron-node,0,repo has no issue
+pawurb/normit,0,repo has no issue
+sindresorhus/execall,0,repo has no issue
+skale-me/skale-engine,0,repo has no issue
+localtunnel/localtunnel,0,repo has no issue
+sindresorhus/hasha,0,repo has no issue
+feross/webtorrent,0,repo has no issue
+tj/node-progress,0,repo has no issue
+sindresorhus/node-module-boilerplate,0,repo has no issue
+noraesae/pen,0,repo has no issue
+gajus/slonik,0,repo has no issue
+sindresorhus/clipboardy,0,repo has no issue
+stylecow/stylecow,0,repo has no issue
+nodeca/idoit,0,repo has no issue
+sindresorhus/filenamify,0,repo has no issue
+primus/primus,0,repo has no issue
+Automattic/wp-calypso,34049,Jetpack checklist: Demonstrate consistent checklist state
+Automattic/wp-calypso,34026,Jetpack checklist: ensure state is updated after enabling a feature
+Automattic/wp-calypso,21460,Comments: Race condition on subsequent do/undo/redo actions
+nodeca/unhomoglyph,0,repo has no issue
+zeit/next.js,4571,Script debugging no longer seem to work in Chrome DevTools and VS Code
+coreybutler/node-mac,0,repo has no issue
+sindresorhus/strip-indent,0,repo has no issue
+expressjs/express,0,repo has no issue
+sindresorhus/random-float,0,repo has no issue
+sindresorhus/fkill-cli,0,repo has no issue
+chjj/blessed,0,repo has no issue
+sindresorhus/remote-git-tags,0,repo has no issue
+Unitech/pm2,3070,Debug in cluster mode
+Unitech/pm2,2202,Possible race condition in `pm2 delete` exposed by `restart_delay`
+Unitech/pm2,1544,Separate log messages get squashed into a single one
+whitef0x0/tellform,0,repo has no issue
+bookshelf/bookshelf,0,repo has no issue
+nuxt/nuxt.js,0,repo has no issue
+dominictarr/JSONStream,0,repo has no issue
+kentcdodds/cross-env,0,repo has no issue
+jansmolders86/mediacenterjs,0,repo has no issue
+lodash/lodash,0,repo has no issue
+VictorBjelkholm/trymodule,0,repo has no issue
+sindresorhus/awesome-observables,0,repo has no issue
+petkaantonov/bluebird,1449,Fix race condition described in issue #1417
+dthree/cash,0,repo has no issue
+infusion/GPS.js,0,repo has no issue
+mafintosh/tar-fs,0,repo has no issue
+reactivex/rxjs,4847,windowTime race condition
+reactivex/rxjs,4773,docs(race):  added description for race
+reactivex/rxjs,4656,[docs]: Creation function `race` is missing description
+reactivex/rxjs,4655,[docs]: Operator `race` is missing description and example
+reactivex/rxjs,3592,lift called with incorrect context
+voodootikigod/node-serialport,1593,Feature request: Add an option to disable buffering writes to a closed port
+voodootikigod/node-serialport,1537,How to handle operation queuing and error handling/recovery robustly
+IndigoUnited/node-proper-lockfile,0,repo has no issue
+sindresorhus/cpy,0,repo has no issue
+aksakalli/gtop,0,repo has no issue
+sindresorhus/cli-truncate,0,repo has no issue
+kucherenko/jscpd,0,repo has no issue
+Putaitu/hashbrown-cms,0,repo has no issue
+jnordberg/wintersmith,0,repo has no issue
+TooTallNate/ref,0,repo has no issue
+twobucks/seedshot,0,repo has no issue
+watson/console-log-level,0,repo has no issue
+mashpie/i18n-node,0,repo has no issue
+mattdesl/module-best-practices,0,repo has no issue
+SocketCluster/socketcluster,0,repo has no issue
+paulmillr/chokidar,527,Watcher never exits
+yeoman/insight,0,repo has no issue
+Swaagie/minimize,0,repo has no issue
+mongo-express/mongo-express,0,repo has no issue
+mde/ejs,0,repo has no issue
+pid/speakingurl,0,repo has no issue
+beatfreaker/subdownloader,0,repo has no issue
+imagemin/imagemin,0,repo has no issue
+sindresorhus/mem,0,repo has no issue
+sindresorhus/conf,0,repo has no issue
+mixn/carbon-now-cli,0,repo has no issue
+kalm/kalm.js,0,repo has no issue
+zwacky/pokedex-go,0,repo has no issue
+EyalAr/lwip,0,repo has no issue

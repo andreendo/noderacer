@@ -1,0 +1,7 @@
+{
+    "testfile": false, 
+    "pattern": [
+        "**/*.js",
+        "!**/node_modules/**"
+    ]
+}

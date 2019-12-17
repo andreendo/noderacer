@@ -1,0 +1,90 @@
+repo,number,title
+meteor/meteor,10084,EJSON: can crash 1.5+ server if Meteor.user() is called during instantiation of an EJSON type
+meteor/meteor,8998,Cordova: Failed to install
+koajs/koa,1351,ESLint warning about a race condition when assigning an awaited result to body
+mapbox/node-pre-gyp,373,mock s3 tests
+typeorm/typeorm,4168,Question about TransactionalEntityManager
+typeorm/typeorm,3094,Preventing Race Conditions when locking rows
+eslint/eslint,11911,require-atomic-updates isn't consistent between locals and params
+eslint/eslint,11900,require-atomic-updates complains about unrelated variable references
+eslint/eslint,11899,require-atomic-updates false positive
+eslint/eslint,9649,new rule: Prefer using async/await instead of Promise.prototype.then/catch/finally
+node-inspector/node-inspector,656,Support for Timeline tab
+typicode/lowdb,339,Problem:  Is lowdb `write()` atomic writing?
+apostrophecms/apostrophe,1765,Switch sessions to resave: false to prevent race conditions
+mafintosh/duplexify,3,race condition
+deepstreamIO/deepstream.io-client-js,444,potential race condition with set for records
+deepstreamIO/deepstream.io-client-js,407,missing check for callbacks not undefined
+deepstreamIO/deepstream.io-client-js,204,discard/delete data race when quickly re-subscribing
+NodeOS/NodeOS,107,reuse process
+rollup/rollup,2887,Handle pure functions that trigger iterators
+jprichardson/node-fs-extra,694,Add heuristics to stats.ino comparison when bigint is not available
+rschmukler/agenda,417,Race condition registering listener on ready event
+rschmukler/agenda,341,Jobs stuck in race condition
+ReactiveX/RxJS,4847,windowTime race condition
+ReactiveX/RxJS,4773,docs(race):  added description for race
+ReactiveX/RxJS,4656,[docs]: Creation function `race` is missing description
+ReactiveX/RxJS,4655,[docs]: Operator `race` is missing description and example
+ReactiveX/RxJS,3592,lift called with incorrect context
+davidmarkclements/0x,136,0x may exit without generating flamegraph on SIGINT
+devongovett/pdfkit,762,Race condition in document generation.
+esdoc/esdoc,518,ESDoc runs through all files in specified source directory not excluding `excludes` pattern
+atom/electron,17187,getGPUInfo('complete') often never settles the returned promise
+atom/electron,17029,Random crash on startup when migrating from electron 1.8+ to electron 2+
+atom/electron,13418,Possible race condition in window closing on windows causing crash
+atom/electron,12862,Destroying Tray while interacting with one of its events causes sporadic crashes
+octalmage/robotjs,381,Is it possible to turn the raw pixel bitmap into a PNG buffer IN MEMORY without saving it?
+mochajs/mocha,3938,Uncaught exceptions are silenced if happen in timeframe of skipped test
+mochajs/mocha,3832,race condition on deprecation warnings in browser
+jaredhanson/passport,704,#703 - Fixes race condition when using express-session with custom store
+jaredhanson/passport,703,Race condition for express-session with external store
+jaredhanson/passport,504,Fixed race condition that occurs when using connect-pg-simple
+jaredhanson/passport,477,Ensure session store complete before redirect
+OptimalBits/bull,1233,Question about moveToCompleted
+brunch/brunch,1695,Cannot Import Nested Modules
+pgte/nock,1600,Weekly Digest (23 June
+parcel-bundler/parcel,2684,Hot reloading CSS modules results in multiple insertions/delayed update.
+brianc/node-postgres,1830,EBADF crash (uv__io_stop: Assertion `loop->watchers[w->fd] == w' failed)
+socketio/socket.io,3431,Using await within emit causes payload to be sent to all connected clients
+socketio/socket.io,3358,Reconnect never happens (race conditions)
+socketio/socket.io,2975,Socket disconnect race condition leads to orphaned HTTP connections and stop() callback not running
+DevExpress/testcafe,2425,Delaying mocked responses
+sequelize/sequelize,9310,add(Model) in BelongsToMany potentially vulnerable to race conditions
+sequelize/sequelize,9102,Return upsert record on MySQL with FOR UPDATE lock
+sequelize/sequelize,8315,Using a leak library <bluebird>
+request/request,3106,Add missing intermediate SSL certificates fetching support
+request/request,2807,npm install fails intermittently due to race condition in Redirect.prototype.onResponse
+facebook/jest,4444,cache write race condition across processes
+facebook/jest,3103,Analyze Jest's usage of the file system and optimize it.
+facebook/jest,1874,Flaky failure mode when running tests
+feathersjs/feathers,853,app.setup() should be async
+apache/couchdb-nano,9,DB.insert: Can not insert extra headers like If-Match:rev to handle 'Document update conflict'
+tapio/live-server,262,On 404
+winstonjs/winston,1176,Fix race condition with compressing file in tail mode
+restify/node-restify,1788,cpuUsageThrottle plugin `close()` does not clean up properly
+Microsoft/vscode,71698,TreeDataProvider shows error Element with id is already registered
+Microsoft/vscode,70303,Race condition with runOn: folderOpen if extension not already activated
+Microsoft/vscode,67692,Debugger commands sent to terminal get swallowed by previous terminal command
+Microsoft/vscode,61344,Command-P searching delays
+Microsoft/vscode,42913,Add an API that fires after all documents are saved as part of a Save All action
+origamitower/folktale,178,Properly define (and maybe formalise) Tasks
+origamitower/folktale,52,Expose non monadic version of Task
+louischatriot/nedb,461,pointing two instances to the same file
+atom/atom,18451,Overlapping text in editor
+atom/atom,17769,Rapid zooming (scaling font size) skips backwards occasionally
+atom/atom,13141,Race between type-specific settings and third-party packages that update settings dynamically
+tgriesser/knex,2324,stream.end() does not return connection to pool - race condition
+tgriesser/knex,891,SQLite3 select / insert behaving inconsistently
+sindresorhus/get-port,23,Is it possible to fix race condition?
+indexzero/http-server,152,support custom mime-type(s) via .types file
+Automattic/wp-calypso,34049,Jetpack checklist: Demonstrate consistent checklist state
+Automattic/wp-calypso,34026,Jetpack checklist: ensure state is updated after enabling a feature
+Automattic/wp-calypso,21460,Comments: Race condition on subsequent do/undo/redo actions
+zeit/next.js,4571,Script debugging no longer seem to work in Chrome DevTools and VS Code
+Unitech/pm2,3070,Debug in cluster mode
+Unitech/pm2,2202,Possible race condition in `pm2 delete` exposed by `restart_delay`
+Unitech/pm2,1544,Separate log messages get squashed into a single one
+petkaantonov/bluebird,1449,Fix race condition described in issue #1417
+voodootikigod/node-serialport,1593,Feature request: Add an option to disable buffering writes to a closed port
+voodootikigod/node-serialport,1537,How to handle operation queuing and error handling/recovery robustly
+paulmillr/chokidar,527,Watcher never exits
