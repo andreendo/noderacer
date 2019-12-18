@@ -75,7 +75,7 @@ This will show the options available to configure NodeRacer. The entry point for
 
 ## Experimental package
 
-- Download and unzip the benchmark applications from [here](https://www.dropbox.com/s/j9l1v42o8auaryl/noderacer-benchmarks.tar.gz).
+- Download and unzip the benchmark applications from [here](https://brics.dk/noderacer/noderacer-benchmarks.tar.gz).
   ```bash
   tar -xvf noderacer-benchmarks.tar.gz
   ```
